@@ -1,0 +1,101 @@
+// #include <iostream>
+
+// using namespace std;
+
+// int main()
+// {
+//     int pilihanMakanan;
+//     int pilihanMinuman;
+//     int pilihanBuah;
+//     int airPutih = 1000;
+//     int teh = 10000;
+//     int jus = 20000;
+//     int martabak = 5000;
+//     int mieGoreng = 12000;
+//     int nasiGoreng = 21000;
+//     int pisang = 7000;
+//     int mangga = 7000;
+//     int naga = 20000;
+//     int total = pilihanMakanan + pilihanMinuman + pilihanBuah;
+//     int diskon;
+//     int hargaBersih = total - diskon;
+
+//     cout << "================================== \n";
+//     cout << "======== Warung Serba Ada ======== \n";
+//     cout << "================================== \n";
+//     cout << "++++++++   Farada Aulia   ++++++++ \n";
+//     cout << "++++++++   240170214      ++++++++ \n";
+//     cout << "== Minuman ============== Harga == \n";
+//     cout << "1. Air Putih       =      Rp. 1000 \n";
+//     cout << "2. Teh             =      Rp. 10000 \n";
+//     cout << "3. Jus             =      Rp. 20000 \n";
+//     cout << "== Makanan ============== Harga == \n";
+//     cout << "1. Martabak        =      Rp. 5000 \n";
+//     cout << "2. Mie Goreng      =      Rp. 12000 \n";
+//     cout << "3. Nasi Goreng     =      Rp. 21000 \n";
+//     cout << "== Buah    ============== Harga == \n";
+//     cout << "1. Pisang          =      Rp. 7000 \n";
+//     cout << "2. Mangga          =      Rp. 15000 \n";
+//     cout << "3. Naga            =      Rp. 20000 \n";
+//     cout << "================================== \n";
+//     cout << "Masukkan pilihan makanan anda (1-3)";
+//     cin >> pilihanMakanan, "\n";
+
+//     switch (pilihanMakanan)
+//     {
+//     case 1:
+//         cout << "Jumlah yang ingin anda beli 1 \n";
+//         break;
+//     case 2:
+//         cout << "Jumlah yang ingin anda beli 2 \n";
+//         break;
+//     case 3:
+//         cout << "Jumlah yang ingin anda beli 3 \n";
+//         break;
+//     default:
+//         cout << "Anda tidak beli apa apa \n";
+//         break;
+//     }
+
+//     cout << "Masukkan pilihan minuman anda (1-3) \n";
+//     cin >> pilihanMinuman, "\n";
+
+//     switch (pilihanMinuman)
+//     {
+//     case 1:
+//         cout << "Jumlah yang ingin anda beli 1 \n";
+//         break;
+//     case 2:
+//         cout << "Jumlah yang ingin anda beli 2 \n";
+//         break;
+//     case 3:
+//         cout << "Jumlah yang ingin anda beli 3 \n";
+//         break;
+//     default:
+//         cout << "Anda tidak beli apa apa \n";
+//         break;
+//     }
+
+//     cout << "Masukkan pilihan buah anda (1-3) \n";
+//     cin >> pilihanBuah, "\n";
+
+//     switch (pilihanBuah)
+//     {
+//     case 1:
+//         cout << "Jumlah yang ingin anda beli 1 \n";
+//         break;
+//     case 2:
+//         cout << "Jumlah yang ingin anda beli 2 \n";
+//         break;
+//     case 3:
+//         cout << "Jumlah yang ingin anda beli 3 \n";
+//         break;
+//     default:
+//         cout << "Anda tidak beli apa apa \n";
+//         break;
+//     }
+
+//     cout << total;
+
+//     return 0;
+// }
